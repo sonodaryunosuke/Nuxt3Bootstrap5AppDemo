@@ -1,5 +1,9 @@
 <template>
-  <NuxtLayout>
-    <NuxtPage />
-  </NuxtLayout>
+  <div>
+    <AppHeader />
+    <AppAside />
+    <slot />
+    <AppFooter />
+  </div>
 </template>
+
