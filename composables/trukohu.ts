@@ -6,6 +6,11 @@ return {
         { text: "強い銃:M4A1"},
         { text: "口径:5.56x45"},
     ],
+    itemlist: [
+        {id: 1, text: "m995" },
+        {id: 2, text: "855A1" },
+        {id: 3, text: "856A1" }
+    ],
 }
 }
 )
