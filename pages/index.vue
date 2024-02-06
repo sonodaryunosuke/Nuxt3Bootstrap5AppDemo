@@ -13,6 +13,6 @@
  './components/Center.vue'
  const index = Usetrukohu();
  definePageMeta({
-  layout: 'custom'
+  layout: 'default'
 })
 </script>
